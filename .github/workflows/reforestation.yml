@@ -22,7 +22,7 @@ jobs:
       - name: Commit File to Github
         run: |
           git config --local user.email "sofa.haeta@gmail.com"
-          git config --local user.name "sooluh"
+          git config --local user.name "sofa-emha"
           git add --all
 
           date=$(date '+%Y-%m-%d %H:%M:%S')
