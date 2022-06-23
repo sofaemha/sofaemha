@@ -1,0 +1,36 @@
+name: Reforestation
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # at minute 0 past hour 7, 8, 9, 10, and 11
+    - cron: "0 7,8,9,10,11 * * *"
+jobs:
+  reforestation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preparation
+        uses: actions/checkout@v2
+
+      - name: Execute Application
+        run: |
+          chmod +x ./reforestation/run.sh
+          ./reforestation/run.sh
+
+      - name: Commit File to Github
+        run: |
+          git config --local user.email "sofa.haeta@gmail.com"
+          git config --local user.name "sooluh"
+          git add --all
+
+          date=$(date '+%Y-%m-%d %H:%M:%S')
+          git commit -m ":seedling: Penghijauan [$date]"
+
+      - name: Push File to Github
+        uses: ad-m/github-push-action@master
+        with:
+          force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
