@@ -1,9 +1,10 @@
 # Introduction :wave:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23FFF.svg?&style=for-the-badge&logo=instagram&logoColor=82008F)](https://instagram.com/sofa.emha)
-[![Telegram](https://img.shields.io/badge/Telegram-%23FFF.svg?&style=for-the-badge&logo=telegram&logoColor=0088cc&label_color=0088cc)](https://t.me/sofaemha_business)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UClgFrSjeiPrvRJn-nrAWn6w?label=YouTube&logo=youtube&style=for-the-badge&labelColor=white&logoColor=red)](https://www.youtube.com/channel/UClgFrSjeiPrvRJn-nrAWn6w)
-[![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fsofa.my.id)](https://sofa.my.id)
+[![](https://img.shields.io/badge/Instagram-%23FFF.svg?&style=for-the-badge&logo=instagram&logoColor=82008F)](https://instagram.com/sofa.emha)
+[![](https://img.shields.io/badge/Telegram-%23FFF.svg?&style=for-the-badge&logo=telegram&logoColor=0088cc&label_color=0088cc)](https://t.me/sofaemha_business)
+[![](https://img.shields.io/youtube/channel/subscribers/UClgFrSjeiPrvRJn-nrAWn6w?label=YouTube&logo=youtube&style=for-the-badge&labelColor=white&logoColor=red)](https://www.youtube.com/channel/UClgFrSjeiPrvRJn-nrAWn6w)
+[![](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fsofa.my.id)](https://sofa.my.id)
+![](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
 
 ## Short Biography :black_nib:
 Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang, except during college education where sometimes I have to go out of town. Playing games very often especially if there is a lot of free time, either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
@@ -60,6 +61,14 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
 
 
 ## Miscellaneous :gear:
+
+<details>
+  <summary><b>:partying_face:&nbsp;&nbsp;Random Developer Jokes</b></summary>
+  <br/>
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=transparent&qColor=%232f80ed&aColor=%232f80ed&bgColor=transparent)
+</details>
+
 
 <details>
   <summary><b>:hammer_and_wrench:&nbsp;&nbsp;Markdown Tools & Reference</b></summary>
