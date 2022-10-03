@@ -13,6 +13,8 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
 :mortar_board: Studying at [**Pancasakti University Tegal**](https://www.upstegal.ac.id/)<br>
 :house: Rarely go out, unless it's very important<br>
 
+---
+
 <details>
   <summary><b>:art:&nbsp;&nbsp;Fields of Interests</b></summary>
   <br/>
@@ -43,22 +45,27 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
 </details>
 
-
 ## GitHub Statistics :bar_chart:
 <details>
   <summary><b>:bookmark_tabs:&nbsp;&nbsp;Recent Activity</b></summary>
   <br/>
   
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=sofaemha&show_icons=true&hide=stars&theme=transparent)
+  ![Personal Stats](https://github-readme-stats.vercel.app/api?username=sofaemha&show_icons=true&hide=stars&theme=transparent)
 </details>
 
 <details>
   <summary><b>:telescope:&nbsp;&nbsp;Top Languages</b></summary>
   <br/>
   
-![Personal Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofaemha&layout=compact&theme=transparent)
+  ![Personal Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofaemha&layout=compact&theme=transparent)
 </details>
 
+<details>
+  <summary><b>:trophy:&nbsp;&nbsp;Profile Trophy</b></summary>
+  <br/>
+  
+  ![Personal Top Languages](https://github-profile-trophy.vercel.app/?username=sofaemha&theme=oldie&no-bg=true&no-frame=true&rank=-?)
+</details>
 
 ## Miscellaneous :gear:
 
@@ -66,9 +73,8 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   <summary><b>:partying_face:&nbsp;&nbsp;Random Developer Jokes</b></summary>
   <br/>
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=transparent&qColor=%232f80ed&aColor=%232f80ed&bgColor=transparent)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=transparent&qColor=%2358a6ff&aColor=%2358a6ff&bgColor=transparent)
 </details>
-
 
 <details>
   <summary><b>:hammer_and_wrench:&nbsp;&nbsp;Markdown Tools & Reference</b></summary>
@@ -82,8 +88,8 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   |[![gh-ikatyang](https://img.shields.io/badge/-@ikatyang-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ikatyang)](https://github.com/ikatyang)|Emoji Cheat Sheet|
   |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak)|README Jokes|
   |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev)|GitHub Profile Views Counter|
+  |[![gh-ryo-ma](https://img.shields.io/badge/-@ryoma-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ryo-ma)](https://github.com/ryo-ma)|GitHub Profile Trophy|
 </details>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
