@@ -1,10 +1,10 @@
 # Introduction :wave:
 
-[![](https://img.shields.io/badge/Instagram-%23FFF.svg?&style=for-the-badge&logo=instagram&logoColor=82008F)](https://instagram.com/sofa.emha)
-[![](https://img.shields.io/badge/Telegram-%23FFF.svg?&style=for-the-badge&logo=telegram&logoColor=0088cc&label_color=0088cc)](https://t.me/sofaemha_business)
-[![](https://img.shields.io/youtube/channel/subscribers/UClgFrSjeiPrvRJn-nrAWn6w?label=YouTube&logo=youtube&style=for-the-badge&labelColor=white&logoColor=red)](https://www.youtube.com/channel/UClgFrSjeiPrvRJn-nrAWn6w)
-[![](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fsofa.my.id)](https://sofa.my.id)
-![](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FFF.svg?&style=for-the-badge&logo=instagram&logoColor=82008F)](https://instagram.com/sofa.emha)
+[![Telegram](https://img.shields.io/badge/Telegram-%23FFF.svg?&style=for-the-badge&logo=telegram&logoColor=0088cc&label_color=0088cc)](https://t.me/sofaemha_business)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UClgFrSjeiPrvRJn-nrAWn6w?label=YouTube&logo=youtube&style=for-the-badge&labelColor=white&logoColor=red)](https://www.youtube.com/channel/UClgFrSjeiPrvRJn-nrAWn6w)
+[![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fsofa.my.id)](https://sofa.my.id)
+![Visitors Count](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
 
 ## Short Biography :black_nib:
 Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang, except during college education where sometimes I have to go out of town. Playing games very often especially if there is a lot of free time, either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
@@ -41,8 +41,8 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   <summary><b>:kite:&nbsp;&nbsp;Currently Learning</b></summary>
   <br/>
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
+  [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
 </details>
 
 ## GitHub Statistics :bar_chart:
@@ -64,13 +64,20 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   <summary><b>:trophy:&nbsp;&nbsp;Profile Trophy</b></summary>
   <br/>
   
-  ![Personal Top Languages](https://github-profile-trophy.vercel.app/?username=sofaemha&theme=oldie&no-bg=true&no-frame=true&rank=-?)
+  ![Personal Trophy](https://github-profile-trophy.vercel.app/?username=sofaemha&theme=oldie&no-bg=true&no-frame=true&rank=-?)
 </details>
 
 ## Miscellaneous :gear:
+<details>
+  <summary><b>:scroll:&nbsp;&nbsp;Random Quotes</b></summary>
+  <br/>
+
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+</details>
+
 
 <details>
-  <summary><b>:partying_face:&nbsp;&nbsp;Random Developer Jokes</b></summary>
+  <summary><b>:trollface:&nbsp;&nbsp;Random Developer Jokes</b></summary>
   <br/>
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=transparent&qColor=%2358a6ff&aColor=%2358a6ff&bgColor=transparent)
@@ -86,9 +93,10 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   |[![gh-guilyx](https://img.shields.io/badge/-@guilyx-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/guilyx)](https://github.com/guilyx)|Footer Waving Element|
   |[![gh-anuraghazra](https://img.shields.io/badge/-@anuraghazra-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/anuraghazra)](https://github.com/anuraghazra)|GitHub Stats|
   |[![gh-ikatyang](https://img.shields.io/badge/-@ikatyang-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ikatyang)](https://github.com/ikatyang)|Emoji Cheat Sheet|
-  |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak)|README Jokes|
-  |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev)|GitHub Profile Views Counter|
-  |[![gh-ryo-ma](https://img.shields.io/badge/-@ryoma-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ryo-ma)](https://github.com/ryo-ma)|GitHub Profile Trophy|
+  |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak)|ReadMe Jokes|
+  |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev)|Profile Views Counter|
+  |[![gh-ryo-ma](https://img.shields.io/badge/-@ryoma-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ryo-ma)](https://github.com/ryo-ma)|Profile Trophy|
+  |[![gh-PiyushSuthar](https://img.shields.io/badge/-@PiyushSuthar-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/PiyushSuthar)](https://github.com/PiyushSuthar)|ReadMe Quotes|
 </details>
 
 <p align="center">
