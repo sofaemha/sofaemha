@@ -80,6 +80,8 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   |[![gh-guilyx](https://img.shields.io/badge/-@guilyx-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/guilyx)](https://github.com/guilyx)|Footer Waving Element|
   |[![gh-anuraghazra](https://img.shields.io/badge/-@anuraghazra-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/anuraghazra)](https://github.com/anuraghazra)|GitHub Stats|
   |[![gh-ikatyang](https://img.shields.io/badge/-@ikatyang-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ikatyang)](https://github.com/ikatyang)|Emoji Cheat Sheet|
+  |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak)|README Jokes|
+  |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev)|GitHub Profile Views Counter|
 </details>
 
 
