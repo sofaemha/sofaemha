@@ -16,25 +16,46 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
 ---
 
 <details>
-  <summary><b>:art:&nbsp;&nbsp;Fields of Interests</b></summary>
+  <summary><b>:books:&nbsp;&nbsp;Mandatory Course</b></summary>
+  <br/>
+
+  [![Java](https://img.shields.io/badge/Java-%23f00?style=for-the-badge&logoColor=%23FFF&logo=hackthebox)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+  [![CPP](https://img.shields.io/badge/C++-%23004482?style=for-the-badge&logoColor=%23FFF&logo=cplusplus)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![VB](https://img.shields.io/badge/Visual%20Basic%206-%23FFF?style=for-the-badge&logoColor=%23000&logo=moleculer)](https://getbootstrap.com/)
+</details>
+
+<details>
+  <summary><b>:dna:&nbsp;&nbsp;Familiar Technology</b></summary>
   <br/>
 
   [![HTML5](https://img.shields.io/badge/HTML5-%23e34c26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-  [![HUGO](https://img.shields.io/badge/HUGO-%23E56376?style=for-the-badge&logoColor=%23FFF&logo=hugo)](https://gohugo.io/)
   [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=for-the-badge&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com/)
-  [![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=for-the-badge&logoColor=%23333&logo=sass)](https://sass-lang.com/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
-  [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=for-the-badge&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
-  [![jQuery](https://img.shields.io/badge/JQuery-%230769ad?style=for-the-badge&logoColor=%23FFF&logo=jquery)](https://jquery.com/)
   [![PHP](https://img.shields.io/badge/PHP-%238892BF?style=for-the-badge&logoColor=%23FFF&logo=php)](https://www.php.net/)
-  [![MariaDB](https://img.shields.io/badge/MariaDB-%23E9CEBD?style=for-the-badge&logoColor=%23000&logo=mariadb)](https://mariadb.org/)
   [![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logoColor=%23FFF&logo=mysql)](https://www.mysql.com/)
-  [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
+  [![Composer](https://img.shields.io/badge/Composer-%23343434?style=for-the-badge&logoColor=%23FFF&logo=composer)](https://getcomposer.org/)
+  [![NPM](https://img.shields.io/badge/npm-%23FFF?style=for-the-badge&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
+</details>
+
+<details>
+  <summary><b>:art:&nbsp;&nbsp;Fields of Interests</b></summary>
+  <br/>
+
+  [![HUGO](https://img.shields.io/badge/HUGO-%23E56376?style=for-the-badge&logoColor=%23FFF&logo=hugo)](https://gohugo.io/)
+  [![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=for-the-badge&logoColor=%23333&logo=sass)](https://sass-lang.com/)
+  [![jQuery](https://img.shields.io/badge/JQuery-%230769ad?style=for-the-badge&logoColor=%23FFF&logo=jquery)](https://jquery.com/)
   [![Apache](https://img.shields.io/badge/Apache-%23557697?style=for-the-badge&logoColor=%23d12127&logo=apache)](https://httpd.apache.org/)
-  [![Composer](https://img.shields.io/badge/Composer-%23FFF?style=for-the-badge&logoColor=%23222&logo=composer)](https://getcomposer.org/)
-  [![NPM](https://img.shields.io/badge/npm-%23FFFFFF?style=for-the-badge&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
   [![Bash](https://img.shields.io/badge/Bash-%234eaa25?style=for-the-badge&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+</details>
+
+<details>
+  <summary><b>:card_file_box:&nbsp;&nbsp;Database Systems</b></summary>
+  <br/>
+
+  [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=for-the-badge&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
+  [![MariaDB](https://img.shields.io/badge/MariaDB-%23E9CEBD?style=for-the-badge&logoColor=%23000&logo=mariadb)](https://mariadb.org/)
+  [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
 </details>
 
 <details>
