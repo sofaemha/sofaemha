@@ -7,7 +7,7 @@
 ![Visitors Count](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
 
 ## Short Biography :black_nib:
-Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang, except during college education where sometimes I have to go out of town. Playing games very often especially if there is a lot of free time, either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
+Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang (Central Java, Indonesian), except during college education where sometimes I have to go out of town. Playing games very often, especially if there is a lot of free time either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
 
 :sparkles: Interested in **Role-Playing Games**<br>
 :mortar_board: Studying at [**Pancasakti University Tegal**](https://www.upstegal.ac.id/)<br>
