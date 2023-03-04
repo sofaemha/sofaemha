@@ -22,14 +22,14 @@
           font-weight: 900;
           letter-spacing: -.05em;
           text-align: center;
-          background: -webkit-linear-gradient(right, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background: -webkit-linear-gradient(right, #ee7752, #e73c7e, #23a6d5, #23d5ab, #23d5ab, #23a6d5, #e73c7e, #ee7752);
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #23d5ab, #23a6d5, #e73c7e, #ee7752);
           background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           -webkit-animation: gradientText 3s ease infinite;
-          animation: gradientText 3s ease infinite;
+          animation: gradientText 10s ease infinite;
         }
 
         @-webkit-keyframes snowflakes-fall {
