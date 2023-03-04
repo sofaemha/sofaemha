@@ -7,6 +7,10 @@
 ![Visitors Count](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
 
 ## Short Biography :black_nib:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sofaemha/sofaemha/main/o.svg" alt="Sofa Machabba Haeta" />
+</p>
+
 Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Developer (mostly as a Front-End Developer) with 3+ years of experience in developing web-based applications. Started my career at the age of 15 but went deep into learning when I was in high school. Born and raised in Pemalang (Central Java, Indonesian), except during college education where sometimes I have to go out of town. Playing games very often, especially if there is a lot of free time either through console, personal computer, laptop, and even smartphone. If I'm bored, then just take a look for an alternative, which is watching anime.
 
 :sparkles: Interested in **Role-Playing Games**<br>
@@ -110,14 +114,15 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
 
   |Username|Description|
   |-|-|
-  |[![gh-sooluh](https://img.shields.io/badge/-@sooluh-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/sooluh)](https://github.com/sooluh)|Badge and Some Layout|
-  |[![gh-guilyx](https://img.shields.io/badge/-@guilyx-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/guilyx)](https://github.com/guilyx)|Footer Waving Element|
-  |[![gh-anuraghazra](https://img.shields.io/badge/-@anuraghazra-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/anuraghazra)](https://github.com/anuraghazra)|GitHub Stats|
-  |[![gh-ikatyang](https://img.shields.io/badge/-@ikatyang-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ikatyang)](https://github.com/ikatyang)|Emoji Cheat Sheet|
-  |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak)|ReadMe Jokes|
-  |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev)|Profile Views Counter|
-  |[![gh-ryo-ma](https://img.shields.io/badge/-@ryoma-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ryo-ma)](https://github.com/ryo-ma)|Profile Trophy|
-  |[![gh-PiyushSuthar](https://img.shields.io/badge/-@PiyushSuthar-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/PiyushSuthar)](https://github.com/PiyushSuthar)|ReadMe Quotes|
+  |[![gh-badges](https://img.shields.io/badge/-@badges-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/badges)](https://github.com/badges/shields)|Badge Element|
+  |[![gh-kyechan99](https://img.shields.io/badge/-@kyechan99-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kyechan99)](https://github.com/kyechan99/capsule-render)|Footer Waving Element|
+  |[![gh-anuraghazra](https://img.shields.io/badge/-@anuraghazra-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/anuraghazra)](https://github.com/anuraghazra/github-readme-stats)|GitHub Stats|
+  |[![gh-ikatyang](https://img.shields.io/badge/-@ikatyang-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ikatyang)](https://github.com/ikatyang/emoji-cheat-sheet)|Emoji Cheat Sheet|
+  |[![gh-ABSphreak](https://img.shields.io/badge/-@ABSphreak-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ABSphreak)](https://github.com/ABSphreak/readme-jokes)|ReadMe Jokes|
+  |[![gh-antonkomarev](https://img.shields.io/badge/-@antonkomarev-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/antonkomarev)](https://github.com/antonkomarev/github-profile-views-counter)|Profile Views Counter|
+  |[![gh-ryo-ma](https://img.shields.io/badge/-@ryoma-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)|Profile Trophy|
+  |[![gh-PiyushSuthar](https://img.shields.io/badge/-@PiyushSuthar-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/PiyushSuthar)](https://github.com/PiyushSuthar/github-readme-quotes)|ReadMe Quotes|
+  |[![gh-martonlederer](https://img.shields.io/badge/-@martonlederer-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/martonlederer)](https://github.com/martonlederer/martonlederer)|SVG Banner Text|
 </details>
 
 <p align="center">
