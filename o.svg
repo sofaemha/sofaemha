@@ -3,11 +3,9 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes gradientText {
-          0% { background-position: 0% 25%; }
-          25% { background-position: 50% 25%; }
+          0% { background-position: 0% 50%; }
           50% { background-position: 100% 50%; }
-          75% { background-position: 50% 25%; }
-          100% { background-position: 0% 25%; }
+          100% { background-position: 0% 50%; }
         }
 
         .snowflake {
@@ -24,8 +22,8 @@
           font-weight: 900;
           letter-spacing: -.05em;
           text-align: center;
-          background: -webkit-linear-gradient(right, #ee7752, #e73c7e, #23a6d5, #23d5ab, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background: -webkit-linear-gradient(right, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
           background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
