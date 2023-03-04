@@ -33,7 +33,7 @@
         }
 
         @-webkit-keyframes snowflakes-fall {
-          0% { top: -10% 
+          0% { top: -10% }
           100% { top: 100% }
         }
 
@@ -44,7 +44,7 @@
         }
 
         @keyframes snowflakes-fall {
-          0% { top: -10% 
+          0% { top: -10% }
           100% { top: 100% }
         }
 
