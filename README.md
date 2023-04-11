@@ -58,7 +58,7 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   <br/>
 
   [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=for-the-badge&logoColor=%23fff&logo=firebase)](https://firebase.google.com/)
-  [![Supabase](https://img.shields.io/badge/Supabase-%233ecf8e?style=for-the-badge&logoColor=%23fff&logo=supabase)](https://supabase.com/)
+  [![Supabase](https://img.shields.io/badge/Supabase-%23249361?style=for-the-badge&logoColor=%23fff&logo=supabase)](https://supabase.com/)
   [![MariaDB](https://img.shields.io/badge/MariaDB-%23E9CEBD?style=for-the-badge&logoColor=%23000&logo=mariadb)](https://mariadb.org/)
   [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
 </details>
@@ -68,7 +68,7 @@ Let me introduce myself, I'm **Sofa Machabba Haeta :male_sign:** a Website Devel
   <br/>
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
-  [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
+  [![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logoColor=%23FFF&logo=svelte)](https://svelte.dev/)
 </details>
 
 ## GitHub Statistics :bar_chart:
