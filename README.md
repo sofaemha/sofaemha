@@ -1,7 +1,6 @@
 # Introduction :wave:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FFF.svg?&style=for-the-badge&logo=instagram&logoColor=82008F)](https://instagram.com/sofa.emha)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UClgFrSjeiPrvRJn-nrAWn6w?label=YouTube&logo=youtube&style=for-the-badge&labelColor=white&logoColor=red)](https://www.youtube.com/channel/UClgFrSjeiPrvRJn-nrAWn6w)
 [![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fsofa.my.id)](https://sofa.my.id)
 ![Visitors Count](https://komarev.com/ghpvc/?username=sofaemha&label=visitors&style=for-the-badge)
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-%23FFF.svg?&style=for-the-badge&logo=telegram&logoColor=0088cc&label_color=0088cc)](https://t.me/) -->
